@@ -8,6 +8,7 @@
         "node_modules"
       ],
     "compilerOptions": {
+        "jsx": "preserve",
         /* Visit https://aka.ms/tsconfig.json to read more about this file */
 
         /* Projects */
